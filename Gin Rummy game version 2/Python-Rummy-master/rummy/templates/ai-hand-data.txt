@@ -1,3 +1,0 @@
-${light_grey}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~${colour_end}
-Hand Score: ${green}${score}${colour_end}
-${light_grey}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~${colour_end}
