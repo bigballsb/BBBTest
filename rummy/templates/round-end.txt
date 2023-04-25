@@ -1,8 +1,0 @@
-${blue}#############################${colour_end}
-
-Round Scores
-${light_grey}-----------------------------${colour_end}
-$round_scores
-Game Scores
-${light_grey}-----------------------------${colour_end}
-$game_scores
